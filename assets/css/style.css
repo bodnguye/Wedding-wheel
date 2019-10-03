@@ -1,0 +1,49 @@
+body {
+    background-image: url(/assets/images/background2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* color: peachpuff;        */
+}
+
+h1 {
+    font: 400 130px 'Great Vibes', Helvetica, sans-serif;
+    color: black;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+    text-align: center;
+    position: relative;
+    top: 5px;
+  }
+
+  h2 {
+    font: 400 55px 'Great Vibes', Helvetica, sans-serif;
+    color: black;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+    text-align: center;
+    position: relative;
+    bottom: 45px;
+    left: 20px;
+  }
+
+  #wheel {
+      position: relative;
+      left: 27%;
+      bottom:47px;
+  }
+
+  #cover {
+      /* background-color: aqua; */
+      height: 66px;
+      width:120px;
+      float: right;
+      position: relative;
+      right: 26.80%;
+      top: 77%;
+      border-radius: 50%;
+      background-color: rgb(237,239,246);
+  }
+
+/* .line { 
+    border: 2px orange dashed;
+    
+} */
