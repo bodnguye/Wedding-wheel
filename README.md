@@ -1,3 +1,3 @@
 # wedding-wheel
 
-[Wedding Wheel](https://bodnguye.github.io/wedding-wheel/)
+[Wedding Wheel](https://bodnguye.github.io/Wedding-wheel/)
